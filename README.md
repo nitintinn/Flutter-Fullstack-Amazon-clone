@@ -1,7 +1,6 @@
 # amazon_clone
 
-A new Flutter project.
-
+A new fullstack project based on flutter and node.js
 ## Getting Started
 
 This project is a starting point for a Flutter application.
